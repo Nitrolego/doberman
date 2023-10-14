@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">doberman</string>
+    <string name="expense_name">Expense name</string>
+    <string name="expense_date">Date</string>
+    <string name="expense_amount">Amount</string>
+</resources>
